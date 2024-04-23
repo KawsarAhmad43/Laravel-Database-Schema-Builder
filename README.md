@@ -1,6 +1,6 @@
-# Laravel-Code-Reusability-Abstraction-Using-Trait-method-invocation | Database Schema Builder
+# Laravel Database Schema Builder
 
-<p>This repository provides a simple mechanism for building database schemas with Laravel using a SchemaBuilder class and a HasAuditableFields trait.</p>
+<p>This repository provides a simple mechanism for building database schemas with Laravel using a SchemaBuilder class and a HasAuditableFields trait that provides concept of Laravel Code Reusability and Abstraction Using Trait and method invocation .</p>
 
 
 ## Usage
